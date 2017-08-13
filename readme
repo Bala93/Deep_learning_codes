@@ -1,0 +1,6 @@
+
+It is a network based on visualizing the cnn. 
+
+It is been a challenge to understand which part of the image helps to provide classification result. 
+
+The paper on Class Activation map "http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf" helps to localize the region which gives information for classification. 
